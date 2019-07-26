@@ -7,3 +7,7 @@ def map(array)
   end
   return new_array
 end
+
+def reduce(array)
+  
+end
